@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUsUaKN6M2XQsaB7ObOh1mGG4d0myI0GfDZIp1saz0Bc9WafzKkpvJ7xgcrhza4rZDPkSvZNsTpRzGOIyWPD8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucineide\\Desktop\\aec-web-api\\aec-web-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucineide\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lucineide\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lucineide\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lucineide\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lucineide\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lucineide\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
